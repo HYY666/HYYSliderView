@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  hyy6002
+//  HYYSlider
 //
-//  Created by Mac on 16/6/24.
-//  Copyright © 2016年 hyy. All rights reserved.
+//  Created by Apple on 2018/8/22.
+//  Copyright © 2018年 hyy. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
